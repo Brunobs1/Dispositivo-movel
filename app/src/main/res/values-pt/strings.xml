@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="login">Usuário</string>
+    <string name="password">Senha</string>
+</resources>
