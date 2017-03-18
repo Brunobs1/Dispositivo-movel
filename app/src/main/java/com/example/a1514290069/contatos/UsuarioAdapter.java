@@ -1,16 +1,11 @@
 package com.example.a1514290069.contatos;
 
 import android.content.Context;
-import android.text.Layout;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
-import android.widget.TextView;
-
-import com.example.a1514290069.contatos.Contato;
-import com.example.a1514290069.contatos.R;
 
 import java.util.List;
 
@@ -35,6 +30,7 @@ public class UsuarioAdapter extends ArrayAdapter<Contato> {
 
     public View getView(int position, View convertView, ViewGroup parent) {
 
+        /*
         View formatoItemLista = mInflater.inflate(R.layout.celula_lista, null);
         Contato usuario = listaItens.get(position);
 
@@ -49,6 +45,8 @@ public class UsuarioAdapter extends ArrayAdapter<Contato> {
         txtUsuarioNome.setText(usuario.getTelefone());
 
         return formatoItemLista;
+        */
+        return null;
 
     }
 }
