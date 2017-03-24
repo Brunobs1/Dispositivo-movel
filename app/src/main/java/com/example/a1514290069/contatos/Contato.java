@@ -3,7 +3,7 @@ package com.example.a1514290069.contatos;
 /**
  * Created by 1514290069 on 10/03/2017.
  */
-
+//ola
 public class Contato {
 
     int id;
